@@ -1,6 +1,18 @@
 # 📚 Document-Based Question Answering System
  
 A RAG (Retrieval Augmented Generation) based Question Answering application.
+
+## 👥 Team Members
+
+This project was a collaborative effort by **Group 72**. Below are the details of the team members and their contributions:
+
+| Student Name | Student ID | Contribution |
+| :--- | :--- | :--- |
+| SENTHILKUMAR K. | 2024aa05227 | 100% |
+| SENTHIL KUMAR K. | 2024aa05233 | 100% |
+| SAVITA SHENDE. | 2024ac05946 | 100% |
+| ANAND K NAIR. | 2024aa05086 | 100% |
+| DIVYA CHAUDHARY | 2024aa05426 | 100% |
  
 ## 🛠️ Technology Stack
  
