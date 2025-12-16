@@ -68,7 +68,7 @@ The web interface will open at `http://localhost:8501`
  
 ## 📖 Usage
  
-1. **Upload Documents**: Go to "Upload Documents" tab and upload PDF, DOCX, or TXT files
+1. **Upload Documents**: Go to "Upload Documents" tab and upload PDF, DOCX, or TXT files. Use the sample pdf doc - 'BudgetReview_Doc1.pdf' for testing
 2. **Ask Questions**: Go to "Ask Questions" tab, type your question, and click Search
 3. **View History**: Go to "History" tab to see past questions and answers
  
